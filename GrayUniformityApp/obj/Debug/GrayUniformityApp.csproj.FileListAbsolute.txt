@@ -1,0 +1,36 @@
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe.config
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\bin\Debug\GrayUniformityApp.pdb
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.csprojResolveAssemblyReference.cache
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.MainForm.resources
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.Properties.Resources.resources
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.csproj.GenerateResource.Cache
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.exe
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.pdb
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.formOutline.resources
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe.config
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe
+D:\Document\program\06.Mura\code\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.pdb
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe.config
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.exe
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.pdb
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.pdb
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.MainForm.resources
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.formOutline.resources
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.Properties.Resources.resources
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.csproj.GenerateResource.Cache
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe.config
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.exe
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.pdb
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.pdb
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.MainForm.resources
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.formOutline.resources
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.Properties.Resources.resources
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.csproj.GenerateResource.Cache
+J:\私人\GrayUniformity\GrayUniformityApp\bin\Debug\GrayUniformityApp.exe.config
+J:\私人\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.exe
+J:\私人\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.pdb
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.csprojResolveAssemblyReference.cache
+D:\Document\program\13.shading\code\GrayUniformity\GrayUniformityApp\GrayUniformityApp\obj\Debug\GrayUniformityApp.csprojResolveAssemblyReference.cache

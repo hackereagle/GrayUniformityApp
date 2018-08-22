@@ -1,0 +1,15 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly OpencvImageProc, Version=0.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CVision.ImgProc: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    CalculateGrayInfo(ImgParam, VisionResult*): PrivateScope, Public, HideBySig
+    CalculateGrayInfo_NoStruct(SByte*, Int32, Int32, Double*, Double*, Double*): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

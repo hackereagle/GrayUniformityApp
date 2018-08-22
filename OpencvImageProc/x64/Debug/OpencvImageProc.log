@@ -1,0 +1,75 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+  OpencvImageProc.cpp
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+OpencvImageProc.cpp(44): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+OpencvImageProc.cpp(45): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+OpencvImageProc.cpp(46): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+OpencvImageProc.cpp(81): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+OpencvImageProc.cpp(85): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+OpencvImageProc.cpp(87): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+OpencvImageProc.cpp(89): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+OpencvImageProc.cpp(87): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(1808): note: 請參閱 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy' 的宣告
+OpencvImageProc.cpp(89): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(1808): note: 請參閱 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy' 的宣告
+OpencvImageProc.cpp(91): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(439): note: 請參閱 'access' 的宣告
+OpencvImageProc.cpp(111): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+OpencvImageProc.cpp(112): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+OpencvImageProc.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+OpencvImageProc.cpp(115): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+OpencvImageProc.cpp(116): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+OpencvImageProc.cpp(120): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(439): note: 請參閱 'access' 的宣告
+OpencvImageProc.cpp(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+OpencvImageProc.cpp(129): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+OpencvImageProc.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 請參閱 'sprintf' 的宣告
+OpencvImageProc.cpp(143): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+OpencvImageProc.cpp(149): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+OpencvImageProc.cpp(151): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 請參閱 'sprintf' 的宣告
+OpencvImageProc.cpp(162): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+OpencvImageProc.cpp(163): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+OpencvImageProc.cpp(164): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+OpencvImageProc.cpp(170): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+OpencvImageProc.cpp(173): warning C4474: 'sprintf': 傳遞給格式字串的引數太多
+  OpencvImageProc.cpp(173): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+OpencvImageProc.cpp(173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 請參閱 'sprintf' 的宣告
+  stdafx.cpp
+  正在產生程式碼...
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+d:\hacker station of sc\project\grayuniformity\grayuniformityapp\packages\opencv3.1.1.0\build\native\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  OpencvImageProc.vcxproj -> D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\bin\Debug\OpencvImageProc.dll
+  OpencvImageProc.vcxproj -> D:\hacker station of SC\project\GrayUniformity\GrayUniformityApp\bin\Debug\OpencvImageProc.pdb (Full PDB)
